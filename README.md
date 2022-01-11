@@ -22,6 +22,6 @@ appropriate as it gives equal importance to the different classes during trainin
 necessary due to the significant imbalance in the data. 
 
 ## Setup
-Step 1. Install dependencies\n
-Step 2. Set-up google drive\n
-Step 3. Download data\n
+* Step 1. Install dependencies
+* Step 2. Set-up google drive
+* Step 3. Download data
