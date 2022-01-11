@@ -19,8 +19,9 @@ features in a fixed-length vector. Label-wise attention mechanism repeatedly app
 L (number of labels) times, where each attention module is reserved for a specific label.
 Weighted binary cross-entropy is used as a loss function. This loss function was most
 appropriate as it gives equal importance to the different classes during training, which was
-necessary due to the significant imbalance in the data. Thus, this approach overcame the
-significant imbalance amongst class labels and attained extensive results on labels like case
-study, epidemic forecasting, transmission, and diagnosis.
+necessary due to the significant imbalance in the data. 
 
 ## Setup
+Step 1. Install dependencies
+Step 2. Set-up google drive
+Step 3. Download data
