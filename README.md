@@ -1,4 +1,6 @@
 ## Introduction
+This repository represents 5 models that were tried on the [DRSM-Corpus](https://github.com/chanzuckerberg/DRSM-corpus). The models mentioned in the below sections are some variation of transformers and neural networks. We have also given the minimum setup that will be required for running the noteboooks attached. These notebooks were build on Google Colab with the following configuration:
+
 
 
 ## Data
@@ -31,8 +33,6 @@ Descriptions
 | **Specter-LWAN**                    |                |
 | **Specter dual-attention LWAN**     |                |
 
-
-## Head1 
 
 ## Setup
 * Step 1. Install dependencies
