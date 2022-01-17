@@ -32,7 +32,7 @@ Descriptions
 
 | Model                               | micro F1 score |                         
 |-------------------------------------|:--------------:|
-| **BERT-base**                       |                |
+| **BioBERT**                         |                |
 | **PubMedBERT-LWAN**                 |     0.9087     |
 | **dualBERT ensemble**               |                |
 | **Specter-LWAN**                    |                |
