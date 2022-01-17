@@ -1,4 +1,19 @@
-## Dual Attention SPECTER
+## Introduction
+
+
+## Data
+Data is retrieved from the (DRSM-Corpus)[https://github.com/chanzuckerberg/DRSM-corpus]. This is a annotated literature corpus for NLP studies of 'Disease Research State' based on different categories of research (`DRSM` stands for `Disease Research State Model`)
+The `initial-gold-standards` has following set of columns:
+  `ID_PAPER`, `TITLE`, `ABSTRACT`, `PRIMARY CATEGORY`, `SECONDARY CATEGORY`, `IRRELEVANT`, `DISEASE_NAME`
+
+## Methods
+
+
+## Head1 
+
+
+
+
 This approach implements the SPECTER model, which incorporates SciBERT to produce the
 document-level embedding using citation-based transformers. SciBERT can decipher the
 dense bio-medical vocabulary in the COVID-19 literature, making it the ideal choice.
