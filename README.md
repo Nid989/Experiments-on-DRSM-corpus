@@ -33,10 +33,10 @@ Descriptions
 | Model                               | micro F1 score |                         
 |-------------------------------------|:--------------:|
 | **BERT-base**                       |                |
-| **PubMedBERT-LWAN**                  |                |
-| **dualBERT ensemble**              |                |
+| **PubMedBERT-LWAN**                 |                |
+| **dualBERT ensemble**               |                |
 | **Specter-LWAN**                    |                |
-| **Specter dual-attention LWAN**     |                |
+| **Specter dual-attention LWAN**     |     0.9061     |
 
 
 ## Setup
