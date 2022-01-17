@@ -9,6 +9,7 @@ The `initial-gold-standards` has following set of columns:
 Descriptions
 * Size - `8919`
 * Unique disease - `clinical characteristics or disease pathology`, `other`, `disease mechanism`, `therapeutics in the clinic`, `irrelevant`, `patient-based therapeutics`
+* Classes related statistics:
 
 | Disease                                       | Count |
 |-----------------------------------------------|:-----:|
