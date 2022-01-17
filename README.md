@@ -26,8 +26,8 @@ Descriptions
 | Model                               | micro F1 score |                         
 |-------------------------------------|:--------------:|
 | **BERT-base**                       |                |
-| **pubmednlp-LWAN**                  |                |
-| **dual-BERT ensemble**              |                |
+| **PubMedBERT-LWAN**                  |                |
+| **dualBERT ensemble**              |                |
 | **Specter-LWAN**                    |                |
 | **Specter dual-attention LWAN**     |                |
 
