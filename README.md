@@ -23,6 +23,14 @@ Descriptions
 
 ## Methods
 
+| Model                               | micro F1 score |                         
+|-------------------------------------|:--------------:|
+| **BERT-base **                      |                |
+| **pubmednlp-LWAN**                  |                |
+| **dual-BERT ensemble**              |                |
+| **Specter-LWAN**                    |                |
+| **Specter dual-attention LWAN **    |                |
+
 
 ## Head1 
 
