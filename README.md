@@ -40,12 +40,12 @@ We have experimented using 5 different variations of transformers model. These v
 * Specter dual-attention LWAN: In this method we have used Specter embeddings with a dual-attention module. The link for this paper can be found [here](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf).
 
 | Model                               | micro F1 score |  Checkpoints  |                       
-|-------------------------------------|:--------------:|---------------|
+|-------------------------------------|:--------------:|:-------------:|
 | **BioBERT**                         |     0.8995     |     [Link](https://drive.google.com/file/d/1-hJESlTPM8St15hESS5-6hKeqnROJF_H/view?usp=sharing)     |     
-| **PubMedBERT-LWAN**                 |     0.9087     |
-| **dualBERT ensemble**               |                |
-| **Specter-LWAN**                    |                |
-| **Specter dual-attention LWAN**     |     0.9061     |
+| **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
+| **dualBERT ensemble**               |                |     [Link]                                                                                         |
+| **Specter-LWAN**                    |                |     [Link]                                                                                         |
+| **Specter dual-attention LWAN**     |     0.9061     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
 
 ## Setup
 
