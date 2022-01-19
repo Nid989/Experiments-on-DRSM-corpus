@@ -39,7 +39,7 @@ We have experimented using 5 different variations of transformers model. These v
 * Specter-LWAN: In this method we have trained the base [SPECTER](https://huggingface.co/allenai/specter) model.
 * Specter dual-attention LWAN: In this method we have used Specter embeddings with a dual-attention module. The link for this paper can be found [here](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf).
 
-| Model                               | micro F1 score |  Checkpoints  |                       
+| Model                               | Micro F1 score |  Checkpoints  |                       
 |-------------------------------------|:--------------:|:-------------:|
 | **BioBERT**                         |     0.8995     |     [Link](https://drive.google.com/file/d/1-hJESlTPM8St15hESS5-6hKeqnROJF_H/view?usp=sharing)     |     
 | **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
@@ -56,5 +56,5 @@ As these notebooks were implemented using google collab, there is a basic setup 
 * Step 3. Connect the notebook to your google drive. you can see the tutorial [here](https://colab.research.google.com/notebooks/io.ipynb)
 * Step 3. Download data using the "wget" command. There is one cell dedicated to this command. 
 * Step 4. The downloaded data will be saved in the `content` directory which is the runtime folder. Make sure you save this data in your google drive as it will be deleted once the colab session expires.
-* Step 6. For every implementation we have provided the model checkpoints link so that the testing can be done easily. To use these check points download them from the file above and upload them into your connected google drive. After uploading them into your google drive you can enter it's path in the notebook.
+* Step 6. For every implementation we have provided the model checkpoints link so that the testing can be done easily. To use these checkpoints, download them from the above table and upload them into your connected google drive. After uploading them into your google drive you can enter it's path in the notebook.
 * Step 5. After successful implementation of the above steps you can follow the instructions given in the notebook to get to the end result.
