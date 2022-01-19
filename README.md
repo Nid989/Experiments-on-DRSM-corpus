@@ -49,6 +49,12 @@ We have experimented using 5 different variations of transformers model. These v
 
 ## Setup
 
-* Step 1. Install dependencies
-* Step 2. Set-up google drive
-* Step 3. Download data
+As these notebooks were implemented using google collab, there is a basic setup required to run these notebooks. We recommend using google colab for avoinding any complications.
+
+* Step 1. Upload the notebook on google colab and enable the GPU configuration.
+* Step 2. Install all necessary dependencies that are mentioned in the initial cell blocks
+* Step 3. Connect the notebook to your google drive. you can see the tutorial [here](https://colab.research.google.com/notebooks/io.ipynb)
+* Step 3. Download data using the "wget" command. There is one cell dedicated to this command. 
+* Step 4. The downloaded data will be saved in the `content` directory which is the runtime folder. Make sure you save this data in your google drive as it will be deleted once the colab session expires.
+* Step 6. For every implementation we have provided the model checkpoints link so that the testing can be done easily. To use these check points download them from the file above and upload them into your connected google drive. After uploading them into your google drive you can enter it's path in the notebook.
+* Step 5. After successful implementation of the above steps you can follow the instructions given in the notebook to get to the end result.
