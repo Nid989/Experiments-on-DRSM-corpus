@@ -44,7 +44,7 @@ We have experimented using 5 different variations of transformers model. The des
 * PubMedBERT-LWAN:
 * dualBERT ensemble:
 * Specter-LWAN:
-* Specter dual-attention LWAN: In this method we have used Specter embeddings with a dual-attention module. The link for this paper can be found [here] (https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf).
+* Specter dual-attention LWAN: In this method we have used Specter embeddings with a dual-attention module. The link for this paper can be found [here](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf).
 ## Setup
 * Step 1. Install dependencies
 * Step 2. Set-up google drive
