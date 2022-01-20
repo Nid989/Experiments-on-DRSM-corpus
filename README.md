@@ -37,7 +37,6 @@ We have experimented using 5 different variations of transformers model. These v
 
 * BioBERT: In this method we have trained the base [BioBERT](https://huggingface.co/dmis-lab/biobert-v1.1) model. 
 * PubMedBERT-LWAN: In this method we have trained [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext) along with LWAN.
-* dualBERT ensemble: This approach was inspired by [AngryBERT](https://arxiv.org/abs/2103.11800) architecutre. For acheiving the below results we used 2 models: PubmedBERT and SPECTER
 * Specter-LWAN: In this method we have trained the base [SPECTER](https://huggingface.co/allenai/specter) model.
 * Specter dual-attention LWAN: In this method we have used Specter embeddings with a dual-attention module. The link for this paper can be found [here](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf).
 
