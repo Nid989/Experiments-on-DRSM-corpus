@@ -60,3 +60,8 @@ As these notebooks were implemented using google collab, there is a basic setup 
 * Step 5. After successful implementation of the above steps you can follow the instructions given in the notebook to get to the end result.
 
 ## Team
+
+1. Tirthankar Ghosal (Charles University, Prague, Czechia):    tirthankar.slg@gmail.com
+2. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
+3. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
+
