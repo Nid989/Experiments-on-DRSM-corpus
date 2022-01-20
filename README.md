@@ -45,7 +45,7 @@ We have experimented using 5 different variations of transformers model. These v
 | **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
 | **dualBERT ensemble**               |                |     [Link]                                                                                         |
 | **Specter-LWAN**                    |                |     [Link](https://drive.google.com/file/d/1-WmSFVFNXnrmPhTNvhebizHCQeOJmQ0X/view?usp=sharing)     |
-| **Specter dual-attention LWAN**     |     0.9061     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
+| **Specter dual-attention LWAN**     |     0.9109     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
 
 ## Setup
 
