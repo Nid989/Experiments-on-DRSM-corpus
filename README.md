@@ -50,7 +50,7 @@ We have experimented using 5 different variations of transformers model. These v
 
 As these notebooks were implemented using google collab, there is a basic setup required to run these notebooks. We recommend using google colab for avoinding any complications.
 
-* Step 1. Upload the notebook on google colab and enable the GPU configuration.
+* Step 1. Upload the notebook on google colab or use the link provided in the above table and enable the GPU configuration.
 * Step 2. Install all necessary dependencies that are mentioned in the initial cell blocks
 * Step 3. Connect the notebook to your google drive. you can see the tutorial [here](https://colab.research.google.com/notebooks/io.ipynb)
 * Step 3. Download data using the "wget" command. There is one cell dedicated to this command. 
