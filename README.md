@@ -39,13 +39,12 @@ We have experimented using 5 different variations of transformers model. These v
 * Specter-LWAN: In this method we have trained the base [SPECTER](https://huggingface.co/allenai/specter) model.
 * Specter dual-attention LWAN: In this method we have used Specter embeddings with a dual-attention module. The link for this paper can be found [here](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf).
 
-| Model                               | Micro F1 score |                                             Checkpoints                                            |                     
-|-------------------------------------|:--------------:|:--------------------------------------------------------------------------------------------------:|
-| **BioBERT**                         |     0.8995     |     [Link](https://drive.google.com/file/d/1-hJESlTPM8St15hESS5-6hKeqnROJF_H/view?usp=sharing)     |     
-| **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
-| **dualBERT ensemble**               |                |     [Link]                                                                                         |
-| **Specter-LWAN**                    |     0.9011     |     [Link](https://drive.google.com/file/d/1-WmSFVFNXnrmPhTNvhebizHCQeOJmQ0X/view?usp=sharing)     |
-| **Specter dual-attention LWAN**     |     0.9109     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |
+| Model                               | Micro F1 score |                                             Checkpoints                                            | Notebooks |                 
+|-------------------------------------|:--------------:|:--------------------------------------------------------------------------------------------------:|:---------:|
+| **BioBERT**                         |     0.8995     |     [Link](https://drive.google.com/file/d/1-hJESlTPM8St15hESS5-6hKeqnROJF_H/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1cCweWKvnS45XuR5alSnSJEe3OCGu_7C0/view?usp=sharing)    |     
+| **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1SYzQDH9fkUHSwAHeZYbPCSU7Bece-dEM/view?usp=sharing)    |
+| **Specter-LWAN**                    |     0.9011     |     [Link](https://drive.google.com/file/d/1-WmSFVFNXnrmPhTNvhebizHCQeOJmQ0X/view?usp=sharing)     |    [Link](https://colab.research.google.com/drive/1Eequmt9_sSmnRrA9lCTZ7qx_fzCHYVU2?usp=sharing)    |
+| **Specter dual-attention LWAN**     |     0.9109     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1TcopvnmvFKWiHNBv_Nya5Xfb7ioWR7F1/view?usp=sharing)    | 
 
 ## Setup
 
