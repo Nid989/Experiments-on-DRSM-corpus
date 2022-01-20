@@ -61,7 +61,7 @@ As these notebooks were implemented using google collab, there is a basic setup 
 
 ## Team
 
-1. Dr. Tirthankar Ghosal (Charles University, Prague, Czechia):    tghosal@acm.org
+1. Tirthankar Ghosal (Charles University, Prague, Czechia):    tghosal@acm.org
 2. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
 3. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
 
