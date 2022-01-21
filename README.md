@@ -53,6 +53,8 @@ Below we have also attached the label-wise score from our best performing model 
 
 ![image](https://user-images.githubusercontent.com/44599944/150501432-6c842227-15f2-4e42-b257-7ccad76a8bf3.png)
 
+Here, it is clearly visible that `disease mechanism`, `therapeutics in the clinic` and `irrelevant` classes have very less instances in the test dataset. Because of this large imblance, specially in case of `disease mechanism` our model may not give optimal results. One way to solve this probelm is to get more annotated data and try to maintain equal number of instances for each label. Another solution can be to ideate on a weighted approach for classification that can attentuate the problem caused the imbalance imbalance.
+
 ## Setup
 
 As these notebooks were implemented using google collab, there is a basic setup required to run these notebooks. We recommend using google colab for avoinding any complications.
