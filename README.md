@@ -1,7 +1,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Introduction
-This repository represents 5 models that were tried on the [DRSM-Corpus](https://github.com/chanzuckerberg/DRSM-corpus). The models mentioned in the below sections are some variation of transformers and neural networks. We have also given the minimum setup that will be required for running the noteboooks attached. 
+This repository represents 5 models that were experimented on the [DRSM-Corpus](https://github.com/chanzuckerberg/DRSM-corpus). The models mentioned in the below sections are some variation of transformers and neural networks. Our team (Team CUNI-NU) implemented similar approach in the [Track -5](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vii/track-5/) of [Biocreative VII](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vii/) conference. This shared task was a multi-label classification of Covid-19 literature annotation. As the [DRSM-Corpus](https://github.com/chanzuckerberg/DRSM-corpus) is a medical dataset, we implemented similar techniques to acheive optimal results.
+
+We have also given the minimum setup that will be required for running the noteboooks attached. 
 
 These notebooks were build on Google Colab with the following configuration:
 
