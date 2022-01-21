@@ -49,6 +49,10 @@ We have experimented using 5 different variations of transformers model. These v
 | **Specter-LWAN**                    |     0.9011     |     [Link](https://drive.google.com/file/d/1-WmSFVFNXnrmPhTNvhebizHCQeOJmQ0X/view?usp=sharing)     |    [Link](https://colab.research.google.com/drive/1Eequmt9_sSmnRrA9lCTZ7qx_fzCHYVU2?usp=sharing)    |
 | **Specter dual-attention LWAN**     |     0.9109     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1TcopvnmvFKWiHNBv_Nya5Xfb7ioWR7F1/view?usp=sharing)    | 
 
+Below we have also attached the label-wise score from our best performing model i.e. Specter dual-attention LWAN.
+
+![image](https://user-images.githubusercontent.com/44599944/150501432-6c842227-15f2-4e42-b257-7ccad76a8bf3.png)
+
 ## Setup
 
 As these notebooks were implemented using google collab, there is a basic setup required to run these notebooks. We recommend using google colab for avoinding any complications.
