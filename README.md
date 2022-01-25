@@ -67,11 +67,10 @@ As these notebooks were implemented using google collab, there is a basic setup 
 * Step 6. For every implementation we have provided the model checkpoints link so that the testing can be done easily. To use these checkpoints, download them from the above table and upload them into your connected google drive. After uploading them into your google drive you can enter it's path in the notebook.
 * Step 5. After successful implementation of the above steps you can follow the instructions given in the notebook to get to the end result.
 
-## Team
+## Contributors
 
 1. Tirthankar Ghosal (Charles University, Prague, Czechia):    tghosal@acm.org
 2. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
 3. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
 
-We are documenting our experimental progress here: 
 
