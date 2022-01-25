@@ -73,3 +73,5 @@ As these notebooks were implemented using google collab, there is a basic setup 
 2. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
 3. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
 
+We are documenting our experimental progress here: 
+
