@@ -57,7 +57,7 @@ Here, it is clearly visible that `disease mechanism`, `therapeutics in the clini
 
 ## Setup
 
-As these notebooks were implemented using google collab, there is a basic setup required to run these notebooks. We recommend using google colab for avoinding any complications.
+As these notebooks were implemented using Google Colab, there is a basic setup required to run these notebooks. We recommend using google colab for avoinding any complications.
 
 * Step 1. Upload the notebook on google colab or use the link provided in the above table and enable the GPU configuration.
 * Step 2. Install all necessary dependencies that are mentioned in the initial cell blocks
