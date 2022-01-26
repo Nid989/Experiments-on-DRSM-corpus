@@ -51,7 +51,20 @@ We have experimented using 5 different variations of transformers model. These v
 
 Below we have also attached the label-wise score from our best performing model i.e. Specter dual-attention LWAN.
 
-![image](https://user-images.githubusercontent.com/44599944/150501432-6c842227-15f2-4e42-b257-7ccad76a8bf3.png)
+<!-- ![image](https://user-images.githubusercontent.com/44599944/150501432-6c842227-15f2-4e42-b257-7ccad76a8bf3.png) -->
+|                                               | precision | recall | f1-score |
+|-----------------------------------------------|-----------|--------|----------|
+| clinical characteristics or disease pathology |    0.9296 | 0.9392 |   0.9394 |
+|                             disease mechanism |    0.9269 | 0.9664 |   0.9462 |
+|                                    irrelevant |    0.6154 | 0.4706 |   0.5333 |
+|                                         other |    0.8333 | 0.3846 |   0.5263 |
+|                    patient-based therapeutics |    0.7857 | 0.8627 |   0.8224 |
+|                    therapeutics in the clinic |    0.9180 | 0.8571 |   0.8665 |
+|                                               |           |        |          |
+|                                     micro avg |    0.9161 | 0.9058 |   0.9109 |
+|                                     macro avg |    0.8348 | 0.7468 |   0.7749 |
+|                                  weighted avg |    0.9138 | 0.9058 |   0.9061 |
+|                                   samples avg |    0.9021 | 0.9058 |   0.9033 |
 
 Here, it is clearly visible that `disease mechanism`, `therapeutics in the clinic` and `irrelevant` classes have very less instances in the test dataset. Because of this large imblance, specially in case of `disease mechanism` our model may not give optimal results. One way to solve this probelm is to get more annotated data and try to maintain equal number of instances for each label. Another solution can be to ideate on a weighted approach for classification that can attentuate the problem caused the imbalance imbalance.
 
