@@ -24,12 +24,12 @@ Descriptions
 
 | Disease                                       | Count |
 |-----------------------------------------------|:-----:|
-| disease mechanism                             | 108   |
-| therapeutics in the clinic                    | 341   |
-| irrelevant                                    | 342   |
-| patient-based therapeutics                    | 1164  |     
-| other                                         | 2800  |
-| clinical characteristics or disease pathology | 4164  |
+| irrelevant                                    | 109   |
+| patient-based therapeutics                    | 342   |
+| other                                         | 342   |
+| therapeutics in the clinic                    | 1166  |     
+| disease mechanism                             | 2801  |
+| clinical characteristics or disease pathology | 4166  |
 
 
 ## Methods
