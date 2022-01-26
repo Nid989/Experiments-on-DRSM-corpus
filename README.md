@@ -44,10 +44,10 @@ We have experimented using 5 different variations of transformers model. These v
 
 | Model                               | Micro F1 score |                                             Checkpoints                                            | Notebooks |                 
 |-------------------------------------|:--------------:|:--------------------------------------------------------------------------------------------------:|:---------:|
-| **BioBERT**                         |     0.8995     |     [Link](https://drive.google.com/file/d/1-hJESlTPM8St15hESS5-6hKeqnROJF_H/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1cCweWKvnS45XuR5alSnSJEe3OCGu_7C0/view?usp=sharing)    |     
-| **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1SYzQDH9fkUHSwAHeZYbPCSU7Bece-dEM/view?usp=sharing)    |
-| **Specter-LWAN**                    |     0.9011     |     [Link](https://drive.google.com/file/d/1-WmSFVFNXnrmPhTNvhebizHCQeOJmQ0X/view?usp=sharing)     |    [Link](https://colab.research.google.com/drive/1Eequmt9_sSmnRrA9lCTZ7qx_fzCHYVU2?usp=sharing)    |
-| **Specter dual-attention LWAN**     |     0.9109     |     [Link](https://drive.google.com/file/d/1-JM6jog5By6aDczrtQ7q3U7tZa7tLxBG/view?usp=sharing)     |    [Link](https://drive.google.com/file/d/1TcopvnmvFKWiHNBv_Nya5Xfb7ioWR7F1/view?usp=sharing)    | 
+| **BioBERT**                         |     0.8995     |     [Link](https://drive.google.com/file/d/1-hJESlTPM8St15hESS5-6hKeqnROJF_H/view?usp=sharing)     |    [Link](https://colab.research.google.com/gist/Nid989/a8085d197506c77fbfab08bdfee85442/biobert.ipynb)    |     
+| **PubMedBERT-LWAN**                 |     0.9087     |     [Link](https://drive.google.com/file/d/1-pP49V3cF9PsBxrOkEZNx8DS6lbkNmmF/view?usp=sharing)     |    [Link](https://colab.research.google.com/gist/Nid989/479f7b1d2691b3b40839f636f7f73d30/pubmedbert-lwan.ipynb)    |
+| **Specter-LWAN**                    |     0.9011     |     [Link](https://drive.google.com/file/d/1-WmSFVFNXnrmPhTNvhebizHCQeOJmQ0X/view?usp=sharing)     |    [Link](https://colab.research.google.com/gist/Nid989/3ee8e9f0f8248e3227ef2fa69b73fe1d/specter-lwan.ipynb)    |
+| **Specter dual-attention LWAN**     |     0.9109     |     [Link](https://drive.google.com/file/d/1-JM6jog5By6aDczrtQ7q3U7tZa7tLxBG/view?usp=sharing)     |    [Link](https://colab.research.google.com/gist/Nid989/0d50eb3626c28eb45c07d85cf077a313/dual_attention_lwan_specter.ipynb)    | 
 
 Below we have also attached the label-wise score from our best performing model i.e. Specter dual-attention LWAN.
 
